@@ -1,4 +1,4 @@
-# vue-tailwind-project
+# Monty Hall Problem Web
 
 ## Project setup
 ```
